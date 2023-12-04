@@ -1,5 +1,8 @@
 # Table of Contents
 
+<p align='center'>
+<img width="100%" height="auto" src='./image.jpg' alt='/' />
+</p>
 
 - [Horizontal Responsive Width](#horizontal-responsive-width)
 - [Vertical Responsive Height](#vertical-responsive-height)
